@@ -53,3 +53,5 @@ Bonus A: Ensure that your solution is High Available by using multiple applicati
 Bonus B: Use the Azure PostgreSQL managed Service (Note that this can be an expensive service)
 
 Bonus C: Make your solution elastic by using Virtual Machine Scale Sets
+
+Azure portal access : https://portal.azure.com/#home
