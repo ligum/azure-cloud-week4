@@ -54,4 +54,8 @@ Bonus B: Use the Azure PostgreSQL managed Service (Note that this can be an expe
 
 Bonus C: Make your solution elastic by using Virtual Machine Scale Sets
 
+We will use the same app repository from previos project
+
+https://github.com/ligum/node-weight-tracker-week3
+
 Azure portal access : https://portal.azure.com/#home
